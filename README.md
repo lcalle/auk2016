@@ -3,7 +3,7 @@
 
 The zip file <abundmodel_auk2016.zip> contains the raw data and analysis scripts to reproduce the analysis in Calle et al. (2016) in The Auk. The zip contains two files:
 - (1) **data**: <*distribution_surveys_lbhe_gwhe_AbundModel.csv*>: The data is in a comma-separated format with variables as columns and rows corresponding to a unique survey. 
-- (2) **script**: <*AbundModel_scripts_AICc.R*>: The analysis script is to be used with R Statistical Software (freely available @ https://www.r-project.org). The analysis script contains detailed description of the variables in the corresponding dataset. See the publication for more details.
+- (2) **script**: <*AbundModel_scripts_AICc.R*>: The analysis script is to be used with R Statistical Software (freely available @ https://www.r-project.org). The statistical models used in the script are described in the corresponding publication above. The analysis script also contains a detailed description of the variables in the corresponding dataset. See the publication for more details.
 
 
 
